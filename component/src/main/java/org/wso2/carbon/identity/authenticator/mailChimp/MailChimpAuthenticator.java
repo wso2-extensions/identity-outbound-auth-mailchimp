@@ -67,7 +67,7 @@ import java.util.Map;
  */
 public class MailChimpAuthenticator extends OpenIDConnectAuthenticator implements FederatedApplicationAuthenticator {
 
-    private static Log log = LogFactory.getLog(MailChimpAuthenticator.class);
+    private static final Log log = LogFactory.getLog(MailChimpAuthenticator.class);
     private static final long serialVersionUID = -1636321794842883885L;
 
     /**
