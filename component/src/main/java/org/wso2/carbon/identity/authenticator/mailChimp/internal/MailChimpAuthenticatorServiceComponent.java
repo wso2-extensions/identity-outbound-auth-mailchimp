@@ -34,7 +34,7 @@ import java.util.Hashtable;
  */
 public class MailChimpAuthenticatorServiceComponent {
 
-    private static Log log = LogFactory.getLog(MailChimpAuthenticatorServiceComponent.class);
+    private static final Log log = LogFactory.getLog(MailChimpAuthenticatorServiceComponent.class);
 
     /**
      * Activate the service.
