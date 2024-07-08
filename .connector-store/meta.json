@@ -1,0 +1,17 @@
+{
+    "name": "MailChimp",
+    "owner": "WSO2",
+    "category": "Federated authenticator",
+    "documentationUrl": "https://docs.wso2.com/display/ISCONNECTORS/MailChimp+Authenticator",
+    "description": "The MailChimp authenticator allows you to authenticate a user using MailChimp through the WSO2 Identity Server. MailChimp is an email marketing service and the trading name of its operator. MailChimp features and integrations allow you to send marketing emails, automated messages, and targeted campaigns. Their detailed reports help you keep improving over time.",
+    "status": "Active",
+    "labels": ["SocialLogin"],
+    "releases": [
+        {
+            "tagName": "1.0.1",
+            "products": [
+                "IS 6.0.0"
+            ]
+        }
+    ]
+}
