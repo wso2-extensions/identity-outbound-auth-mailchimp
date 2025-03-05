@@ -5,7 +5,7 @@
     "documentationUrl": "https://github.com/wso2-extensions/identity-outbound-auth-mailchimp/blob/master/README.md",
     "description": "The MailChimp authenticator allows you to authenticate a user using MailChimp through the WSO2 Identity Server. MailChimp is an email marketing service and the trading name of its operator. MailChimp features and integrations allow you to send marketing emails, automated messages, and targeted campaigns. Their detailed reports help you keep improving over time.",
     "status": "Active",
-    "labels": ["SocialLogin"],
+    "labels": ["SocialLogin", "Retired(IS 7.1.0+)"],
     "releases": [
         {
             "tagName": "v1.0.1",
